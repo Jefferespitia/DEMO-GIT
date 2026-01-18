@@ -16,5 +16,7 @@ git push
 git pull
 
 git checkout
+
 git branch
+
 git merge 
